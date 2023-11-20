@@ -1,0 +1,68 @@
+---
+title: "Descriptive assessment of datasets"
+author: "Jerid Francom"
+date-modified: today
+format: html
+bibliography: [bibliography.bib, packages.bib]
+biblio-style: apalike
+link-citations: true
+---
+
+<!-- [ ] incomplete: depends on data appoach (see README)-->
+
+## Overview
+
+- What is the name of the data source?
+- Where did it come from?
+- What is the sampling frame?
+- What are you trying to learn about the data?
+
+## Setup 
+
+```{r}
+#| label: setup
+#| message: false
+
+# Load packages 
+library(readr)      # read in data
+library(dplyr)      # data manipulation
+library(skimr)      # descriptive statistics
+library(knitr)      # tables
+library(ggplot2)    # plotting
+```
+
+
+```{r}
+#| label: read-dataset
+#| message: false
+
+# Read in dataset
+masc_df <- read_csv("data/derived/data.csv")
+```
+
+```{r}
+#| label: subset-dataset
+
+# Subset dataset
+masc_df <- 
+  masc_df |> 
+  select(-description, -domain)
+```
+
+
+- How many variables are included?
+- What are the variable types?
+- How many observations are included?
+
+## Assessment
+
+```{r}
+#| label: statistical-summary
+
+# Statistical summary
+skim(masc_df)
+```
+
+## Self-assessment
+
+## References

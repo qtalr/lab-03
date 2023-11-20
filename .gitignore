@@ -5,6 +5,4 @@
 .DS_Store
 *.Rproj
 _*
-.Rdata
-.httr-oauth
-.quarto
+cite-packages.R
