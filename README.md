@@ -1,4 +1,4 @@
-# Lab 3: Descriptive assessment of datasets
+# Lab 03: Descriptive assessment of datasets
 
 <!-- 
 
@@ -37,7 +37,7 @@
   - Provide the author: \<Your Name\>
 2. Render the Quarto document (without changes)
   - Click the 'Render' button on the RStudio toolbar
-  - Save the Quarto file with the name `lab-3.qmd`.
+  - Save the Quarto file with the name `lab-03.qmd`.
 
 ### Descriptive assessment of datasets
 
