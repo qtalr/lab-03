@@ -1,6 +1,6 @@
 # Lab 03: Descriptive assessment of datasets
 
-<!-- 
+<!--
 
 - [ ] Create dev container
 - [ ] Create `masc_lemma` as .rds file in data folder?
@@ -13,7 +13,7 @@
  -->
 
 
-<!-- NOTE: 
+<!-- NOTE:
 - [ ] Add helpful tips for readers
 -->
 
@@ -41,13 +41,13 @@
 
 ### Descriptive assessment of datasets
 
-In the repository for this lab, you will find three data files corresponding to the data origin, data dictionary, and the data itself. 
+In the repository for this lab, you will find three data files corresponding to the data origin, data dictionary, and the data itself.
 
   - `data_origin.csv`
   - `data_dictionary.csv`
-  - `data.csv` 
+  - `data.csv`
 
-These are the same files you used in Lab 2 which correspond to a transformed version of the [Manually-Annotated Subcorpus (MASC)](https://anc.org/data/masc/about/). I suggest you review the data dictionary and data origin files and/ or your work from Lab 2 to help refesh your memory about the data.
+These are the same files you used in Lab 02 which correspond to a transformed version of the [Manually-Annotated Subcorpus (MASC)](https://anc.org/data/masc/about/). I suggest you review the data dictionary and data origin files and/ or your work from Lab 02 to help refesh your memory about the data.
 
 1. Create the following sections and subsections in your `.qmd` document:
 
@@ -80,7 +80,7 @@ These are the same files you used in Lab 2 which correspond to a transformed ver
 
 5. Render the `.qmd` as a PDF or a Word document
 
-6. (optional) Explore adding the following table and plot enhancements to your Quarto document: 
+6. (optional) Explore adding the following table and plot enhancements to your Quarto document:
 
   - `kableExtra` package
     - `kable_styling()`: `font_size`, `striped_rows`, `full_width`, *etc*.
@@ -92,18 +92,18 @@ These are the same files you used in Lab 2 which correspond to a transformed ver
 
 1. Add a section which describes your learning in this lab.
 
-Some questions to consider: 
+Some questions to consider:
 
   - What did you learn?
   - What did you find most/ least challenging?
-  - What resources did you consult? 
+  - What resources did you consult?
     - Instructor? R or Quarto documentation, Websites (provide links)?
   - What more would you like to know about descriptive assessment of datasets in R and/ or Quarto?
     - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
 ## Submission for feedback
 
-1. To prepare your lab report for submission you will need to render your Quarto document to PDF or Word. 
+1. To prepare your lab report for submission you will need to render your Quarto document to PDF or Word.
 2. Download this file to your local computer.
 3. Submit your report as described by your instructor.
 
