@@ -1,22 +1,5 @@
 # Lab 03: Descriptive assessment of datasets
 
-<!--
-
-- [ ] Create dev container
-- [ ] Create `masc_lemma` as .rds file in data folder?
-  - [ ] Then, read in data in lab-3.qmd
-  - [ ] Give students specific assessment aims to work towards
-    - [ ] e.g. What are the most common lemmas in the dataset?
-    - [ ] e.g. What is the average lemma frequency by part of speech?
-    - [ ] e.g. How many documents are there per genre? Per genre and per modality?
-    - [ ] e.g. What is the average number of tokens per genre? Per genre and per modality?
- -->
-
-
-<!-- NOTE:
-- [ ] Add helpful tips for readers
--->
-
 ## Preparation
 
 - Read/ annotate: [Recipe \#3](https://qtalr.github.io/qtalrkit/articles/recipe-3.html). You can refer back to this document to help you at any point during this lab activity.
