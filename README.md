@@ -1,4 +1,4 @@
-# Lab 03: Descriptive assessment of datasets
+# Lab 03: Trace the datascape
 
 ## Preparation
 
@@ -16,13 +16,13 @@
 ### Getting started
 
 1. Create a Quarto document using the RStudio toolbar
-  - Provide the title: "Descriptive assessment of datasets"
+  - Provide the title: "Lab 03: Trace the datascape"
   - Provide the author: \<Your Name\>
 2. Render the Quarto document (without changes)
   - Click the 'Render' button on the RStudio toolbar
   - Save the Quarto file with the name `lab-03.qmd`.
 
-### Descriptive assessment of datasets
+### Trace the datascape
 
 In the repository for this lab, you will find three data files corresponding to the data origin, data dictionary, and the data itself.
 
@@ -81,7 +81,7 @@ Some questions to consider:
   - What did you find most/ least challenging?
   - What resources did you consult?
     - Instructor? R or Quarto documentation, Websites (provide links)?
-  - What more would you like to know about descriptive assessment of datasets in R and/ or Quarto?
+  - What more would you like to know about Trace the datascape in R and/ or Quarto?
     - Find potential resources you might consult to continue your learning. Provide links and a brief description of the resource.
 
 ## Submission for feedback
